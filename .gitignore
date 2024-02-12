@@ -1,0 +1,15 @@
+*
+!*/
+
+!.git*
+!.tokei*
+
+!/LICENSE
+!/gradlew
+!/gradlew.bat
+
+!README.md
+!build.gradle.kts
+!settings.gradle.kts
+
+build/**/*

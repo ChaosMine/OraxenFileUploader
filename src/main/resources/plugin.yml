@@ -1,0 +1,10 @@
+name: OraxenFileUploader
+version: 1.0.0
+author: Kamillaova
+
+main: dev.kamillaova.oraxen_file_uploader.OraxenFileUploaderPlugin
+
+api-version: 1.18
+
+depend:
+  - Oraxen
